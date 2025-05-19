@@ -103,6 +103,7 @@ crashlytics.properties
 crashlytics-build.properties
 
 # Writerside
+webHelp*2-all.zip
 */webHelp*2-all.zip
 
 Makefile
